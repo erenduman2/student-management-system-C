@@ -1,0 +1,6 @@
+BLM2031,Yapisal_Programlama,4,45
+BLM1022,Sayısal_Analiz,3,45
+BLM1992,Is_Saglıgı_ve_Guvenligi,2,80
+BLM3110,Bilgisayar_Muhendisliginde_Ozel_Konular,5,25
+BLM3120,Bilgiye_Erisim_Ve_Arama_Motorları,3,25
+BLM3130,Oyun_Gelistirmeye_Giris,4,25
