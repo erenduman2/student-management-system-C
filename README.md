@@ -1,4 +1,4 @@
-# Program, "Dersler.txt" ve "Ogrenciler.txt" dosyalarını okuyacak başlayacaktır.
+## Program, "Dersler.txt" ve "Ogrenciler.txt" dosyalarını okuyacak başlayacaktır.
 
 ## Özellikler
 
