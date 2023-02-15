@@ -1,0 +1,8 @@
+1,1,1,0,0
+19011000,Eren,Duman,4,1
+19011001,Atahan,Ada,0,0
+19011002,Ozde,Acar,0,0
+19011003,Sevinc,Ak,0,0
+19011005,Adem,Ayva,0,0
+19011006,Ali,Ozdinc,0,0
+19011007,Kerim,Deniz¿"_ýb,0,0
